@@ -1,30 +1,58 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70000&size=30&lines=Hello!;I'm+Spoony)](https://git.io/typing-svg)"
-  </a>
-</h1>
+## Hello there 👋
 
-<p align="center">
-"Hi, I'm Spoony. I am 16 years old. In general, my interests are in Java, HTML, CSS."</p>
+<p align=center>
+I'm a programming enthusiast coding on my free time ☕.
+🌱 I’m currently learning System Administration 👨‍💻
+<br />
+<br />
+I currently code on my free time and have multiple projects up on GitHub. I currently own MoonDev, 1v1.world
+<br />
+<br />
+<h1 align=left>Tech Stack 📚🌠</h1>
+<p align=center>
+<img align=right src="https://lanyard-profile-readme.vercel.app/api/400276314944307210?bg=00000000" />
+<p align=left>
+I currently know how to code in these languages:
+<ul>
+- Java
+<br />
+- HTML
+<br />
+- JavaScript
+<br />
+- CSS
+<br />
+- C#
+<br />
+</ul>
+</p>
+<br />
+</p>
 
-<div align="center">
-<img src="https://lanyard-profile-readme.vercel.app/api/852778406629605396?borderRadius=25px&bg=#282a36"
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852778406629605396)]</div>
 
-<div>
-<h1>
-  I USE
-  </h1></div>
-<div align="center">
+<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Spoony1337&theme=dark&show_icons=true&layout=compact)](https://github.com/Spoony1337)
+-->
+<hr />
+<img align=right src="https://github-readme-stats.vercel.app/api?username=Spoony1337&theme=dark&show_icons=true&bg_color=00000000&title_color=00CCAA&text_color=dddddd" />
 
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D"/>
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-</div>
+### Social Media
+
+<hr />
+<p align=center>
+<a target="_blank" href="https://dsc.gg/moonlydev">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />        
+</a>
+<a target="_blank" href="https://dsc.gg/moonlydev">
+  <img alt="Discord" src="https://img.shields.io/discord/805168792250220544?color=7289DA&label=My%20Server&style=for-the-badge">
+</a>
+<a target="_blank" href="https://steamcommunity.com/id/spoony/">
+  <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+</a>
+<a target="_blank" href="https://twitter.com/zackspoony">
+  <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+</a>
+</p>
+
+Feel free to hit me up whenever for any project related things or just to talk.
+
+Want to check out my profolio? [Click Here](https://docs.google.com/document/d/1Re4bI4KYlLcAPEOtI8uLkRKujsWigLr8W8IA0G2EyLs/edit?usp=sharing)
