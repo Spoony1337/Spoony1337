@@ -10,7 +10,7 @@ I currently code on my free time and have multiple projects up on GitHub. I curr
 <br />
 <h1 align=left>Tech Stack 📚🌠</h1>
 <p align=center>
-<img align=right src="https://lanyard-profile-readme.vercel.app/api/852778406629605396?bg=00000000" />
+<img align=right src="https://lanyard-profile-readme.vercel.app/api/821975119404335124?bg=00000000" />
 <p align=left>
 I currently know how to code in these languages:
 <ul>
