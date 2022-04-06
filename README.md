@@ -1,39 +1,39 @@
 <div align="center">
 
-<h1>Hi <img src="images/Hi.gif" width="40px" />, I'm <a href="https://www.github.com/PaceSomesh">Pace</a>!</h1>
+<h1>Hi <img src="images/Hi.gif" width="40px" />, I'm <a href="https://www.github.com/Spoony1337">Spoony</a>!</h1>
 </div>
 
 ```java
-  public class Pace extends Human implements Gamer, Developer {
+  public class Spoony extends Human implements Gamer, Developer {
 
 	@Override
 	public String getName() {
-		return "Somesh";
+		return "Zaki";
 	}
 	
 	@Override
 	public List<String> getAliases() {
-		return Arrays.asList("Pace", "My Name");
+		return Arrays.asList("Spoony", "My Name");
 	}
 
-        public Pace() {
-        super("Pace", "Earth");
+        public Spoony() {
+        super("Spoony", "Earth");
 
         this.addLanguage("Java", "Python", "Javascript", "Kotlin");
-        this.addExperience("3 Years+(java)", "2years+(python)", "6months+(kotlin)", "1 year (js)", "Total 5 years+");
+        this.addExperience("2 Years+(java)", "3months+(python)", "1week+(kotlin)", "3months+(js)", "Total 2 years+");
      }
    }
 
 	@Override
 	public String aboutme() {
-		return "I like to play piano" +
+		return "I like to learn new things" +
 		"\n" + "I like to code Java";
 	}
     
 	@Override
 	public void codingStuff() {
-		String[] learning = ["Java", "Kotlin", "ReactJS"];
-		String tryingTo = "Make good Android applications & websites";
+		String[] learning = ["Java", "HTML", "CSS"];
+		String tryingTo = "Make good software applications & websites";
 	}
 	
 } 
@@ -62,19 +62,19 @@ public abstract class Human {
 }
 ```
 
-<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=PaceCodes&data=followers,repositories,stars,commits"></p>
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=Spoony1337&data=followers,repositories,stars,commits"></p>
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,kotlin,python,html,css,javascript,typescript,dart,c,cpp,csharp,bash,powershell,swift&includeNames=true"></p>
 
 <div align="center">
 	
-[![Pace's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaceCodes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/PaceCodes) 
-[![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaceCodes&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&langs_count=6)](https://github.com/PaceCodes)
+[![Spoony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spoony1337&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/Spoony1337) 
+[![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaceCodes&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&langs_count=6)](https://github.com/Spoony1337)
 ### Profile Visits 
 
-![Visitors](https://komarev.com/ghpvc/?username=PaceCodes&color=blueviolet)
+![Visitors](https://komarev.com/ghpvc/?username=Spoony1337&color=blueviolet)
 ---
 
 </details>
 
-![My github activity graph](https://activity-graph.herokuapp.com/graph?username=pacecodes&theme=react-dark)
+![My github activity graph](https://activity-graph.herokuapp.com/graph?username=Spoony1337&theme=react-dark)
 
