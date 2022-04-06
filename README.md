@@ -1,57 +1,80 @@
-## Hello there 👋
+<div align="center">
 
-<p align=center>
-I'm a programming enthusiast coding on my free time ☕.
-🌱 I’m currently learning System Administration 👨‍💻
-<br />
-<br />
-I currently code on my free time and have multiple projects up on GitHub. I currently own Storm Development Ltd, Lyra Games & Lyra Network
-<br />
-<h1 align=left>Tech Stack 📚🌠</h1>
-<p align=center>
-<img align=right src="https://lanyard-profile-readme.vercel.app/api/821975119404335124?bg=00000000" />
-<p align=left>
-I currently know how to code in these languages:
-<ul>
-- Java
-<br />
-- HTML
-<br />
-- JavaScript
-<br />
-- CSS
-<br />
-- C#
-<br />
-</ul>
-</p>
-<br />
-</p>
+<h1>Hi <img src="images/Hi.gif" width="40px" />, I'm <a href="https://www.github.com/PaceSomesh">Pace</a>!</h1>
+</div>
+
+```java
+  public class Pace extends Human implements Gamer, Developer {
+
+	@Override
+	public String getName() {
+		return "Somesh";
+	}
+	
+	@Override
+	public List<String> getAliases() {
+		return Arrays.asList("Pace", "My Name");
+	}
+
+        public Pace() {
+        super("Pace", "Earth");
+
+        this.addLanguage("Java", "Python", "Javascript", "Kotlin");
+        this.addExperience("3 Years+(java)", "2years+(python)", "6months+(kotlin)", "1 year (js)", "Total 5 years+");
+     }
+   }
+
+	@Override
+	public String aboutme() {
+		return "I like to play piano" +
+		"\n" + "I like to code Java";
+	}
+    
+	@Override
+	public void codingStuff() {
+		String[] learning = ["Java", "Kotlin", "ReactJS"];
+		String tryingTo = "Make good Android applications & websites";
+	}
+	
+} 
 
 
-<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Spoony1337&theme=dark&show_icons=true&layout=compact)](https://github.com/Spoony1337)
--->
-<hr />
-<img align=right src="https://github-readme-stats.vercel.app/api?username=Spoony1337&theme=dark&show_icons=true&bg_color=00000000&title_color=00CCAA&text_color=dddddd" />
+public abstract class Human {
 
-### Social Media
+  @Getter private final String username;
+  @Getter private final String country;
 
-<hr />
-<p align=center>
-<a target="_blank" href="discord.lyra.gg">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />        
-</a>
-<a target="_blank" href="discord.lyra.gg">
-  <img alt="Discord" src="https://img.shields.io/discord/805168792250220544?color=7289DA&label=My%20Server&style=for-the-badge">
-</a>
-<a target="_blank" href="https://steamcommunity.com/id/spoony/">
-  <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-</a>
-<a target="_blank" href="https://twitter.com/spoony1337">
-  <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</a>
-</p>
+  private Set<String> languages = new HashSet<>();
+  private Set<String> experiences = new HashSet<>();
 
-Feel free to hit me up whenever for any project related things or just to talk.
+  public Human(String username, String placeilive) {
+      this.name = username;
+      this.country = placeilive;
+  }
 
-Want to check out my profolio? [Click Here](https://spoony.me)
+  public void addLanguage(String... language) {
+      this.languages.addAll(language);
+  }
+  
+  public void addExperience(String... experience) {
+      this.experiences.addAll(experience);
+  }
+}
+```
+
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=PaceCodes&data=followers,repositories,stars,commits"></p>
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,kotlin,python,html,css,javascript,typescript,dart,c,cpp,csharp,bash,powershell,swift&includeNames=true"></p>
+
+<div align="center">
+	
+[![Pace's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaceCodes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/PaceCodes) 
+[![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaceCodes&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&langs_count=6)](https://github.com/PaceCodes)
+### Profile Visits 
+
+![Visitors](https://komarev.com/ghpvc/?username=PaceCodes&color=blueviolet)
+---
+
+</details>
+
+![My github activity graph](https://activity-graph.herokuapp.com/graph?username=pacecodes&theme=react-dark)
+
