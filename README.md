@@ -8,7 +8,7 @@
 
 	@Override
 	public String getName() {
-		return "Zaki";
+		return "none";
 	}
 	
 	@Override
